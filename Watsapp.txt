@@ -11,3 +11,5 @@ Author: Suriya
 4.Attachment(image,document,contact)
 
 5.status saving feature
+
+6.send money to contacts feature
